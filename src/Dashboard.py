@@ -6,8 +6,7 @@ from streamlit_folium import folium_static
 from folium.plugins import MarkerCluster
  
 st.set_page_config(layout="wide", page_title="Dublin Urban Forest Analytics")
- 
-# Custom CSS for better styling
+
 st.markdown("""
     <style>
     .main {
