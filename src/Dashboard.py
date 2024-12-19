@@ -27,8 +27,10 @@ st.markdown("""
         padding-top: 1rem;
         padding-bottom: 0.5rem;
     }
-    .stMetric {
-        background-color: #f0f2f6 !important;
+    .st-emotion-cache-12w0qpk {
+        background: #f0f2f6 !important;
+        padding: 10px !important;
+        border-radius: 0.5rem !important;
     }
     </style>
 """, unsafe_allow_html=True)
